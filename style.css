@@ -323,4 +323,10 @@
     .box{
         margin-left:20px !important;
     }
+    .team h2{
+        margin-left: 10px !important;
+    }
+    .team h3{
+        margin-left:10px !important;
+    }
 }
